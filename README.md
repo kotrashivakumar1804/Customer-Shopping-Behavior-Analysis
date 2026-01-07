@@ -64,8 +64,7 @@ An interactive **Power BI dashboard** is built to visualize key insights.
 - Focus marketing on top-rated products
 
 
-## 📷 Dashboard Preview
-# Customer Shopping Behavior Analysis 📊
-customer behaviour project dashboard.pbit
+## 📷 Dashboard Preview 📊
+#customer behaviour project dashboard.pbit
 
 
