@@ -69,7 +69,3 @@ An interactive **Power BI dashboard** is built to visualize key insights.
 customer behaviour project dashboard.pbit
 
 
-## 🚀 Author
-**Shiva Kumar**  
-Aspiring Data Analyst  
-🔗 LinkedIn: https://www.linkedin.com/in/kotra-shiva-kumar/
