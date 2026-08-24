@@ -65,6 +65,6 @@ An interactive **Power BI dashboard** is built to visualize key insights.
 
 
 ## 📷 Dashboard Preview 📊
-#customer behaviour project dashboard.pbit
+- Dashboard :- https://github.com/kotrashivakumar1804/Customer-Shopping-Behavior-Analysis/blob/main/Dashboard.png
 
 
